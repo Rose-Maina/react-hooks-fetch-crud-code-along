@@ -35,6 +35,24 @@
       "name": "Cookies",
       "category": "Dessert",
       "isInCart": false
+    },
+    {
+      "name": "Cheese",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 7
+    },
+    {
+      "name": "Cheese",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 8
+    },
+    {
+      "name": "Lettuce",
+      "category": "Dessert",
+      "isInCart": false,
+      "id": 9
     }
   ]
 }
